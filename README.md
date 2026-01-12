@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Himanshu Maurya</h1>
 
 <p align="center">
-  📍 Panvel, Maharashtra &nbsp;|&nbsp;
+  📍 Pune, Maharashtra &nbsp;|&nbsp;
   📞 7738104626 &nbsp;|&nbsp;
   📧 <a href="mailto:himanshum7738@gmail.com">himanshum7738@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/himanshu-maurya-0630a7231/">🔗 LinkedIn</a>
