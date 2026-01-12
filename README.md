@@ -11,8 +11,8 @@
 
 ### 🧠 About Me
 
-🎓 I’m a Computer Science Engineering student with a passion for **Cloud Computing** and **Microsoft Azure**.  
-⚙️ I love solving real-world problems using **Python**, **AI**, and crafting clean, responsive web interfaces.  
+🎓 I’m a Computer Science Engineering student with a passion for **Software Tester**.  
+⚙️ I love solving real-world problems using **Python**, **AI**, **Java** and crafting clean Test Document.  
 🚀 Constantly learning, building, and exploring in tech and nature!
 
 ---
