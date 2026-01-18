@@ -73,9 +73,9 @@ I focus on:
 **Objective:**  
 Validate REST API endpoints for a fictional e-commerce app **ShopEase** using **FakeStoreAPI** backend.
 
-**Tools Used:** Postman · FakeStoreAPI · JSON :contentReference[oaicite:4]{index=4}
+**Tools Used:** Postman · FakeStoreAPI · JSON
 
-**Endpoints Tested:** (Page 1) :contentReference[oaicite:5]{index=5}  
+**Endpoints Tested:** (Page 1) 
 ✔ GET /products  
 ✔ GET /products/{id}  
 ✔ GET /products/categories  
@@ -86,7 +86,7 @@ Validate REST API endpoints for a fictional e-commerce app **ShopEase** using **
 ✔ GET /users/{id}  
 ✔ POST /auth/login  
 
-**Test Scenarios Covered:** (Pages 2–3) :contentReference[oaicite:6]{index=6}  
+**Test Scenarios Covered:** (Pages 2–3)   
 ✔ Response validation  
 ✔ Status code validation (200 / 404 / 401)  
 ✔ Category filtering  
@@ -94,13 +94,13 @@ Validate REST API endpoints for a fictional e-commerce app **ShopEase** using **
 ✔ Negative testing for invalid IDs  
 ✔ Validation for payload & schema
 
-**Execution Highlights:** (Pages 3–9) :contentReference[oaicite:7]{index=7}  
+**Execution Highlights:** (Pages 3–9)  
 ✔ Products & User retrieval  
 ✔ Auth token returned on valid login  
 ✔ 200 OK for valid resources  
 ✔ Cross-checking JSON response schema  
 
-**Bug Report Summary:** (Pages 10–11) :contentReference[oaicite:8]{index=8}  
+**Bug Report Summary:** (Pages 10–11) 
 | Bug ID | Endpoint | Issue | Expected | Actual | Status |
 |---|---|---|---|---|---|
 | BUG-01 | GET /products/{id} | Invalid ID returns `{}` | 404 Not Found | 200 OK | Open |
@@ -108,7 +108,7 @@ Validate REST API endpoints for a fictional e-commerce app **ShopEase** using **
 | BUG-03 | GET /users/{id} | Invalid ID returns `{}` | 404 Not Found | 200 OK | Open |
 | BUG-04 | POST /carts | Missing fields accepted | 400 Bad Request | 201 Created | Open |
 
-**Execution Summary:** (Page 11) :contentReference[oaicite:9]{index=9}  
+**Execution Summary:** (Page 11) 
 - Total Test Cases: **12**  
 - Passed: **8**  
 - Failed: **4**  
