@@ -51,71 +51,27 @@ I focus on:
 
 ## 🧩 QA Projects
 
-### 🔶 **1. OrangeHRM – Web Functional Testing**
-- Auth & modules tested (Login, Licenses, Skills)
-- Designed 30+ test cases
+### 🔶 1. OrangeHRM – Web Functional Testing
+- Tested Login, Skills, & Licenses modules
+- Designed 30+ test cases & executed full cycle
 - Logged defects using JIRA & Bugasura
-- Achieved ~90% scenario coverage
-- Artifacts: RTM · Test Cases · Execution Reports
+- Achieved ~90% test coverage
 
 ---
 
-### 🔷 **2. E-Commerce Website – UI Testing (Web)**
+### 🔷 2. E-Commerce Website – UI Testing (Web)
 - Tested product listing, cart & checkout flows
-- 30+ test cases executed
-- Cross-browser UI validation
+- Performed cross-browser UI validation
+- Executed 30+ functional & negative cases
 - Documented results with screenshots
 
 ---
 
-### 🔵 **3. API Testing Case Study — FakeStore API (Manual)**
-
-**Objective:**  
-Validate REST API endpoints for a fictional e-commerce app **ShopEase** using **FakeStoreAPI** backend.
-
-**Tools Used:** Postman · FakeStoreAPI · JSON
-
-**Endpoints Tested:** (Page 1) 
-✔ GET /products  
-✔ GET /products/{id}  
-✔ GET /products/categories  
-✔ GET /products/category/{name}  
-✔ POST /carts  
-✔ GET /carts/{id}  
-✔ GET /users  
-✔ GET /users/{id}  
-✔ POST /auth/login  
-
-**Test Scenarios Covered:** (Pages 2–3)   
-✔ Response validation  
-✔ Status code validation (200 / 404 / 401)  
-✔ Category filtering  
-✔ Token generation & login  
-✔ Negative testing for invalid IDs  
-✔ Validation for payload & schema
-
-**Execution Highlights:** (Pages 3–9)  
-✔ Products & User retrieval  
-✔ Auth token returned on valid login  
-✔ 200 OK for valid resources  
-✔ Cross-checking JSON response schema  
-
-**Bug Report Summary:** (Pages 10–11) 
-| Bug ID | Endpoint | Issue | Expected | Actual | Status |
-|---|---|---|---|---|---|
-| BUG-01 | GET /products/{id} | Invalid ID returns `{}` | 404 Not Found | 200 OK | Open |
-| BUG-02 | POST /auth/login | Invalid login returns 200 | 401 Unauthorized | 200 OK | Open |
-| BUG-03 | GET /users/{id} | Invalid ID returns `{}` | 404 Not Found | 200 OK | Open |
-| BUG-04 | POST /carts | Missing fields accepted | 400 Bad Request | 201 Created | Open |
-
-**Execution Summary:** (Page 11) 
-- Total Test Cases: **12**  
-- Passed: **8**  
-- Failed: **4**  
-- Blocked: **0**
-
-**Conclusion:**  
-> API behaves correctly for valid inputs but lacks proper error handling, status code validation, and authentication robustness.
+### 🔵 3. FakeStore API – Manual API Testing (Postman)
+- Tested REST endpoints for products, carts, users & auth
+- Designed positive & negative API test cases
+- Verified status codes, payloads & responses via Postman
+- Reported issues related to error handling & invalid IDs
 
 ---
 
