@@ -11,95 +11,108 @@
 
 ### 🧠 About Me
 
-🎓 I’m a Computer Science Engineering student with a passion for **Software Tester**.  
-⚙️ I love solving real-world problems using **Python**, **AI**, **Java** and crafting clean Test Document.  
-🚀 Constantly learning, building, and exploring in tech and nature!
+🎓 I’m a Computer Science Engineering student and aspiring **Software QA Engineer**.  
+🧪 Skilled in **Manual & Automation testing**, building structured test cases & executing test cycles.  
+🚀 Passionate about clean documentation, API testing, SDLC/STLC & Agile workflows.  
 
 ---
 
 ### 🏆 Fun Badges
 
 ![Azure Certified](https://img.shields.io/badge/Azure-Fundamentals-blue?logo=microsoft-azure&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Developer-yellow?logo=python&style=for-the-badge)
-![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-brightgreen?logo=openai&style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blueviolet?logo=cloudflare&style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive-Web--Design-orange?logo=html5&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-brightgreen?logo=selenium&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-OOPs-red?logo=oracle&style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API-Testing-green?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-lightgrey?style=for-the-badge)
 ![Team Player](https://img.shields.io/badge/Team-Collaboration-teal?style=for-the-badge)
-![Sketch Artist](https://img.shields.io/badge/Sketching-Creative-lightgrey?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-blueviolet?style=for-the-badge)
 
 ---
 
-### 💼 Experience
+### 🧰 Technical Skills
 
-**🎗 Volunteer – National Service Scheme (NSS)**  
-*Panvel, Maharashtra (Jun 2023 – Jan 2025)*
+**Manual Testing & QA Fundamentals:**  
+✓ SDLC, STLC, Test Scenario & Test Case Design  
+✓ RTM, Defect Life Cycle, Bug Reporting  
+✓ Agile Testing, BVA, EP, UI/UX Testing  
+✓ Functional, Regression, Smoke, Sanity, Integration, System, UAT, Exploratory
 
-- 📦 Coordinated logistics for 10+ community events.
-- 🌱 Led 5 environmental awareness workshops for 200+ participants.
-- 🩺 Helped provide healthcare access to 150+ people.
-- 📚 Collaborated on educational outreach programs with 20+ volunteers.
+**Automation Testing:**  
+🐍 Selenium WebDriver · TestNG · Maven · Cucumber (BDD) · Page Object Model (POM) · Playwright (Basic) :contentReference[oaicite:1]{index=1}
 
----
+**API & Tools:**  
+🔗 Postman · Swagger · JSON · XML · Chrome DevTools
 
-### 🎓 Education
+**Test Management & DevOps:**  
+🧰 JIRA · Bugzilla · Bugasura · Git & GitHub · VMware · Excel (Test Case Management) :contentReference[oaicite:2]{index=2}
 
-- 🎓 **B.Tech in Computer Science Engineering**  
-  *Chhatrapati Shivaji Maharaj University (2021–2025)*
-
-- 🧪 **12th Grade – Science Stream**  
-  *Namrata Acharya Junior College (2021)*
-
-- 📘 **10th Grade – CBSE Board**  
-  *Yadavrao Tasgaonkar Public School (2019)*
-
----
-
-### 📜 Certifications
-
-- 🧠 **Microsoft Azure Fundamentals** – Microsoft (2023)  
-- ☁️ **Cloud Computing** – NPTEL (2023)  
-- 🤖 **AI for All** – 2023  
-- 📡 **Understanding Cloud Computing** – 2023  
+**Programming & Web:**  
+💻 Java (OOPs, Exception Handling) · Python (Basic) · HTML · CSS · SQL (joins, aggregates, CRUD) :contentReference[oaicite:3]{index=3}
 
 ---
 
 ### 💻 Project Showcase
 
-#### 📂 Employee Management System (Python)
+#### **1️⃣ OrangeHRM – Web Application Testing (Manual)**
+- Designed & executed 30+ test cases (positive + negative)  
+- Prepared RTM & documented test execution results  
+- Identified & logged 10+ defects using **JIRA & Bugasura**  
+- Improved test coverage to **90%** through scenario-based testing :contentReference[oaicite:4]{index=4}
 
-- 🧾 Managed employee data with a Python app — reduced data retrieval time by 30%.
-- 🕒 Implemented attendance & performance tracking for 50+ employees.
-- 🖥️ Designed a Tkinter GUI for ease of use.
+#### **2️⃣ E-Commerce Website – Functional & UI Testing**
+- Created 30+ test cases for **cart, checkout & listing** workflows  
+- Performed **multi-browser UI testing**  
+- Increased testing efficiency by **20%** through structured test data  
+- Contributed feedback to improve user flow & usability :contentReference[oaicite:5]{index=5}
 
 ---
 
-### 🧰 Skills
+### 📜 Certifications & Training
 
-**Tech Stack:**  
-💻 Python · ☁️ Azure · 🧠 AI · 🌐 Responsive Web Design · 🏗️ IT Infrastructure  
+- 🟦 **Microsoft Azure Fundamentals** — Microsoft (2023)  
+- ☁️ **Cloud Computing** — NPTEL (2023)  
+- 🤖 **AI for All** — 2023  
+- 🧩 **AWS Solution Architect Associate (Training)** — TechGen (2025)  
+- 📡 **Responsive Web Design** — FreeCodeCamp (2024)  
+- 🧪 **Manual Testing Training** — IT Vedant (2025)  
+- 🧪 **Software Testing (Pursuing)** — IT Vedant (2025) :contentReference[oaicite:6]{index=6}
 
-**Soft Skills:**  
-🎯 Leadership · 🧩 Problem Solving · 👥 Team Collaboration · 🎨 Creative Design  
+---
+
+### 💼 Experience
+
+**🎗 Volunteer — National Service Scheme (NSS)**  
+*Panvel, Maharashtra (Jun 2023 – Jan 2025)*  
+
+- Organized **10+ community outreach events**  
+- Led **environmental awareness workshops** for 200+ participants  
+- Supported education & healthcare programs for underprivileged communities :contentReference[oaicite:7]{index=7}
+
+---
+
+### 🎓 Education
+
+- **B.Tech in Computer Science Engineering** — CSMIT University (2021–2025) :contentReference[oaicite:8]{index=8}
+- **12th Science** — Namrata Acharya Junior College (2019–2021)
+- **10th CBSE** — Yadavrao Tasgaonkar Public School (2019)
 
 ---
 
 ### 🌐 Languages
 
-- 🇮🇳 Hindi – Advanced (C1)  
-- 🇬🇧 English – Intermediate (B1)  
-- 🇲🇭 Marathi – Upper Intermediate (B2)
+🇮🇳 Hindi — Fluent  
+🇬🇧 English — Intermediate  
+🇲🇭 Marathi — Fluent :contentReference[oaicite:9]{index=9}
 
 ---
 
 ### 🧳 Interests & Hobbies
 
-📚 Continuous Learning  
-🖋️ Sketching & Creative Drawing  
-🏞️ Backpacking and Hiking  
-🔧 Reading Technical Literature  
+📚 Continuous Learning · 🖋️ Sketching · 🛠️ Creative Design · 🧠 Tech Reading :contentReference[oaicite:10]{index=10}
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshum7738&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=himanshum7738&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
